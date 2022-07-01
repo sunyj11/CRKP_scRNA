@@ -1,0 +1,39 @@
+Characteriztion,轻症1_急性期(M_1_P),轻症2_急性期(M_2_P),轻症2_恢复期(M_2_R),重症_急性期(S_P),重症_恢复期(S_R)
+"Age, years",63,68,68,65,65
+Sex,Women,Men,Men,Men,Men
+Current smoking,Y,Y,Y,Y,Y
+Any comorbidity,,,,,
+Diabetes,N,N,N,N,N
+Hypertension,Y,N,N,N,N
+Cardiovascular disease,N,N,N,N,N
+Chronic obstructive pulmonary disease,N,N,N,N,N
+Malignancy,N,Y,Y,Y,Y
+Chronic liver diseas,N,N,N,N,N
+Signs and symptoms,,,,,
+Fever,Y,Y,N,Y,N
+Cough,Y,Y,N,Y,N
+Myalgia or fatigue,Y,Y,N,Y,N
+Sputum production,Y,Y,N,Y,N
+Headache,Y,Y,N,Y,N
+Haemoptysis,N,N,N,N,N
+Diarrhoea,Y,N,N,Y,N
+Dyspnoea,Y,Y,N,Y,N
+"Systolic pressure, mm Hg",150,130,135,86,130
+Respiratory rate >24 breaths per min,21,23,17,32,18
+Days from illness onset to dyspnoea,2,3,,4,
+Days from first admission to transfer,5,6,,2,
+Duration from illness onset to first admission,5days,6days,,3days,
+ARDS,N,N,N,Y,N
+Acute cardiac injury,N,N,N,Y,N
+Acute kidney injury,Y,N,N,N,N
+Secondary infection,Y,Y,N,Y,N
+Shock,N,N,N,Y,N
+Antiviral therapy,Y,Y,N,Y,N
+Antibiotic therapy,Y,Y,N,Y,N
+Use of corticosteroid,N,N,N,Y,N
+Dialysis treatment,Y,N,N,N,N
+Oxygen support,Y,Y,N,Y,Y
+Nasal cannula,Y,Y,N,Y,Y
+Hospitalisation,Y,Y,N,Y,N
+Discharge,Y,Y,Y,Y,Y
+Death,N,N,,N,
