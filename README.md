@@ -1,6 +1,7 @@
 # CRKP_scRNA
 
-C_1expression.Rdata: The raw expression matrix for C_1 sample (Rdata file);
+C_1expression.Rdata: The raw expression matrix for C_1 sample (Rdata file)
+
 C_2expression.Rdata: The raw expression matrix for C_2 sample (Rdata file)
 
 HC_1expression.Rdata: The raw expression matrix for HC_1 sample (Rdata file)
